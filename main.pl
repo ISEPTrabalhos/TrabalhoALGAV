@@ -1,2 +1,2 @@
-include('baseconhecimento.pl').
+:- include('baseconhecimento.pl').
 
