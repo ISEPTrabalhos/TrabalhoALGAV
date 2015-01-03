@@ -2,8 +2,11 @@
 linha(crell, stadedefrancesaintdenis).
 linha(stadedefrancesaintdenis, crell).
 
-linha(stadedefrancesaintdenis, leshalles).
-linha(leshalles, stadedefrancesaintdenis).
+linha(stadedefrancesaintdenis, garedunord).
+linha(garedunord, stadedefrancesaintdenis).
+
+linha(garedunord, leshalles).
+linha(leshalles, garedunord).
 
 linha(leshalles, garedelyon).
 linha(garedelyon, leshalles).
@@ -20,15 +23,15 @@ linha(melun, levertdemaisons).
 linha(malesherbes, levertdemaisons).
 
 /* linha vermelha(A) */
-linha(cergy, ladeferense).
-linha(polssy, ladeferense).
-linha(stgermainenlaye, ladeferense).
-linha(ladeferense, cergy).
-linha(ladeferense, polssy).
-linha(ladeferense, stgermainenlaye).
+linha(cergy, ladefense).
+linha(polssy, ladefense).
+linha(stgermainenlaye, ladefense).
+linha(ladefense, cergy).
+linha(ladefense, polssy).
+linha(ladefense, stgermainenlaye).
 
-linha(ladeferense, charlesdegaulleetolle).
-linha(charlesdegaulleetolle, ladeferense).
+linha(ladefense, charlesdegaulleetolle).
+linha(charlesdegaulleetolle, ladefense).
 
 linha(charlesdegaulleetolle, auber).
 linha(auber, charlesdegaulleetolle).
