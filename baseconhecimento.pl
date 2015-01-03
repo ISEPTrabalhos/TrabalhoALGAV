@@ -124,7 +124,6 @@ linha(portedeclichy, saintouen).
 linha(portedeclichy, pereirelevallois).
 linha(pereirelevallois, portedeclichy).
 
-
 linha(pereirelevallois, neuillyportemaillot).
 linha(neuillyportemaillot, pereirelevallois).
 
@@ -207,6 +206,22 @@ linha(viroflayrivegauche, saintquentinenyvellnes).
 linha(saintquentinenyvellnes, viroflayrivegauche).
 
 
+/* linha roxa(E) */
+
+linha(haussmannsaintlazare, garedunord).
+linha(garedunord, haussmannsaintlazare).
+
+linha(garedunord, pantin).
+linha(pantin, garedunord).
+
+linha(pantin, noisylesec).
+linha(noisylesec, pantin).
+
+linha(noisylesec, chellesgournay).
+linha(chellesgournay, noisylesec).
+
+linha(noisylesec, tournan).
+linha(tournan, noisylesec).
 
 
 
