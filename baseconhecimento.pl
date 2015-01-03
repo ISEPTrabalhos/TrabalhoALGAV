@@ -4,3 +4,12 @@
 :- include('linhaD.pl').
 :- include('linhaE.pl').
 :- include('linha1.pl').
+:- include('linha2.pl').
+:- include('linha3.pl').
+:- include('linha4.pl').
+:- include('linha5.pl').
+:- include('linha6.pl').
+:- include('linha7.pl').
+:- include('linha8.pl').
+:- include('linha9.pl').
+:- include('linha10.pl').
