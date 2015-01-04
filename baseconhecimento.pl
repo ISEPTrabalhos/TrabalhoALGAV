@@ -13,3 +13,7 @@
 :- include('linha8.pl').
 :- include('linha9.pl').
 :- include('linha10.pl').
+:- include('linha11.pl').
+:- include('linha12.pl').
+:- include('linha13.pl').
+:- include('linha14.pl').
