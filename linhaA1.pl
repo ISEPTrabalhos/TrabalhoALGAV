@@ -1,7 +1,6 @@
 /* linha vermelha(A) */
-<<<<<<< HEAD:linhaA1.pl
 
-linha(A1,["Cergy","La Défense","Charles de Gaulle Êtolle","Auber","Les Halles","Gare d'Austerlitz","Nation","Vincennes","Marne-la-Vallée"]).
+linha(A1,['Cergy','La Défense','Charles de Gaulle Êtolle','Auber','Les Halles','Gare d Austerlitz','Nation','Vincennes','Marne-la-Vallée']).
 
 /*
 linha(cergy, ladefense).
@@ -44,9 +43,3 @@ linha(vincennes, bolssystleger).
 linha(marnelavallee, vincennes).
 linha(bolssystleger, vincennes).
 */
-=======
-linha(A, vincennes, marnelavallee).
-linha(A, vincennes, bolssystleger).
-linha(A, marnelavallee, vincennes).
-linha(A, bolssystleger, vincennes).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320:linhaA.pl

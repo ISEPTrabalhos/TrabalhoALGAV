@@ -1,7 +1,6 @@
 /* linha azul claro(13) */
 
-<<<<<<< HEAD:linha13.1.pl
-linha(13.1,["Châtillon-Montrouge","Malakoff Rue Étienne Dolet","Malakoff Plateau de Vanves","Porte de Vanves","Plaisance","Pernety","Gaîté","Gare Montparnasse","Duroc","Saint François Xavier","Varenne","Invalides","Champs Élysées Clemenceau","Miromesnil","Liège","Place de Clichy", "La Fourge","Brochant","Porte de Clichy","Mairie de Clichy","Gabriel Péri","Les Agnettes","Les Courtillies"]).
+linha(13.1,['Châtillon-Montrouge','Malakoff Rue Étienne Dolet','Malakoff Plateau de Vanves','Porte de Vanves','Plaisance','Pernety','Gaîté','Gare Montparnasse','Duroc','Saint François Xavier','Varenne','Invalides','Champs Élysées Clemenceau','Miromesnil','Liège','Place de Clichy', 'La Fourge','Brochant','Porte de Clichy','Mairie de Clichy','Gabriel Péri','Les Agnettes','Les Courtillies']).
 
 /*
 linha(chatillonmontrouge, malakoffrueetiennedolet).
@@ -96,7 +95,3 @@ linha(13, lesagnettes, gabrielperi).
 linha(lesagnettes, lescourtilles).
 linha(lescourtilles, lesagnettes).
 */
-=======
-linha(13, lesagnettes, lescourtilles).
-linha(13, lescourtilles, lesagnettes).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320:linha13.pl

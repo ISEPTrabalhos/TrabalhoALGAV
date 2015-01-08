@@ -1,7 +1,6 @@
 /* linha roxa(E) */
 
-<<<<<<< HEAD:linhaE1.pl
-linha(E1,["Haussmann Saint-Lazare","Gare du Nord","Pantin","Noisy-le-Sec","Tournan"]).
+linha(E1,['Haussmann Saint-Lazare','Gare du Nord','Pantin','Noisy-le-Sec','Tournan']).
 
 /*
 
@@ -26,7 +25,3 @@ linha(noisylesec, tournan).
 linha(tournan, noisylesec).
 
 */
-=======
-linha(E, noisylesec, tournan).
-linha(E, tournan, noisylesec).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320:linhaE.pl

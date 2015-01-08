@@ -1,7 +1,7 @@
 /* linha castanha (11) */
 
-<<<<<<< HEAD
-linha(11, ["Châtelet","Hôtel de Ville","Rambuteau","Goncourt","Belleville","Pyrénées","Jourdain","Place des Fêtes","Télégraphe","Mairie des Llias"]).
+
+linha(11, ['Châtelet','Hôtel de Ville','Rambuteau','Goncourt','Belleville','Pyrénées','Jourdain','Place des Fêtes','Télégraphe','Mairie des Llias']).
 
 /*
 linha(chatelet, hoteldeville).
@@ -45,7 +45,3 @@ linha(11, portedeslilas, telegraphe).
 linha(portedeslilas, mairiedeslilas).
 linha(mairiedeslilas, portedeslilas).
 */
-=======
-linha(11, portedeslilas, mairiedeslilas).
-linha(11, mairiedeslilas, portedeslilas).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

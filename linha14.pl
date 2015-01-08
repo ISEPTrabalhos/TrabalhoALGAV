@@ -1,7 +1,7 @@
 /* linha roxa(14) */
 
-<<<<<<< HEAD
-linha(14,["Olympiades","Bibliothèque Fr. Mitterrand","Cour St-Émilion","Bercy","Gare d'Austerlitz","Châtelet","Pyramides","Madeleine","Saint-Lazare"]).
+
+linha(14,['Olympiades','Bibliothèque Fr. Mitterrand','Cour St-Émilion','Bercy','Gare d Austerlitz','Châtelet','Pyramides','Madeleine','Saint-Lazare']).
 
 /*
 linha(olympiades, bibliothequefrmitterrand).
@@ -30,7 +30,3 @@ linha(14, madeleine, pyramids).
 linha(madeleine, saintlazare).
 linha(saintlazare, madeleine).
 */
-=======
-linha(14, madeleine, saintlazare).
-linha(14, saintlazare, madeleine).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

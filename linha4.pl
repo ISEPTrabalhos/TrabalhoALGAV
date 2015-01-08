@@ -1,7 +1,6 @@
 /* linha roxa(4) */
 
-<<<<<<< HEAD
-linha(4, ["Porte de Clignancourt", "Simplon", "Marcadet Poissonniers", "Château Rouge", "Barbès-Rochechouart", "Gare du Nord", "Gare de l'Est", "Château d'Eau", "Strasbourg Saint-Denis", "Réamur-Sébastopol", "Étienne Marcel", "Les Halles", "Châtelet", "Cité", "Saint-Michel", "Odéon", "Saint-Germain-des-Prés", "Saint-Sulpice", "Saint-Placide", "Montparnasse Bienvenue", "Vavin", "Raspail", "Denfert-Rochereau", "Mouton-Duvernet", "Alésia", "Porto d'Orléans"]).
+linha(4, ['Porte de Clignancourt', 'Simplon', 'Marcadet Poissonniers', 'Château Rouge', 'Barbès-Rochechouart', 'Gare du Nord', 'Gare de l Est', 'Château d Eau', 'Strasbourg Saint-Denis', 'Réamur-Sébastopol', 'Étienne Marcel', 'Les Halles', 'Châtelet', 'Cité', 'Saint-Michel', 'Odéon', 'Saint-Germain-des-Prés', 'Saint-Sulpice', 'Saint-Placide', 'Montparnasse Bienvenue', 'Vavin', 'Raspail', 'Denfert-Rochereau', 'Mouton-Duvernet', 'Alésia', 'Porto d Orléans']).
 
 /*
 linha(portedeclignancourt, simplon).
@@ -87,11 +86,3 @@ linha(4, portedorleans, alesia).
 linha(portedorleans, mairiedemontrouge).
 linha(mairiedemontrouge, portedorleans).
 */
-=======
-linha(4, portedorleans, mairiedemontrouge).
-linha(4, mairiedemontrouge, portedorleans).
-
-
-
-
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

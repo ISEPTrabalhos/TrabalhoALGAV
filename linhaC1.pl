@@ -1,7 +1,6 @@
 /* linha amarela(C) */
 
-<<<<<<< HEAD:linhaC1.pl
-linha(C1,["Massy-Palalseau Versailles-Chantlers","Choisy-le-Roi","Les Ardoines","Vitry sur-Seine","Ivry sur-Seine","Bibliothèque Fr. Mitterrand","Gare d'Austerlitz","St-Michel Notre-Dame","Musée d'Orsay","Invalides","Pont de l'Alma","Champ de Mars Tour Eiffel","Javel","Pont du Gariliano","Issy Val de Seine","Issy","Meudon-Val-Fleury","Chaville-Véllizy","Viroflay Rive Gauche","Versailles-Château"]).
+linha(C1,['Massy-Palalseau Versailles-Chantlers','Choisy-le-Roi','Les Ardoines','Vitry sur-Seine','Ivry sur-Seine','Bibliothèque Fr. Mitterrand','Gare d Austerlitz','St-Michel Notre-Dame','Musée d Orsay','Invalides','Pont de l Alma','Champ de Mars Tour Eiffel','Javel','Pont du Gariliano','Issy Val de Seine','Issy','Meudon-Val-Fleury','Chaville-Véllizy','Viroflay Rive Gauche','Versailles-Château']).
 
 /*
 linha(pontoise, lesgresillons).
@@ -102,7 +101,3 @@ linha(C, versalleschateau, viroflayrivegauche).
 linha(viroflayrivegauche, saintquentinenyvellnes).
 linha(saintquentinenyvellnes, viroflayrivegauche).
 */
-=======
-linha(C, viroflayrivegauche, saintquentinenyvellnes).
-linha(C, saintquentinenyvellnes, viroflayrivegauche).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320:linhaC.pl

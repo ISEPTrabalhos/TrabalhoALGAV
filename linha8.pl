@@ -1,7 +1,6 @@
 /* linha roxa clara(8) */
 
-<<<<<<< HEAD
-linha(8, ["Ballard", "Lourmel", "Boucicaut", "Félix Faure", "Commerce", "La Motte-Picquet-Grenelle", "École Militaire", "La Tour-Maubourg", "Invalides", "Concorde", "Madeleine", "Opéra", "Richelieu-Drouot", "Grands Boulevards", "Bonne Nouvelle", "Strasbourg-Saint-Dennis", "République", "Filles du Calvaire", "Saints-Sébastien-Froissart", "Chemin Vert", "Bastille", "Ledru-Rollin", "Faidherbe-Chaligny", "Reuilly-Diderot", "Montgallet", "Daumesnil", "Michel Bizot", "Porte Dorée", "Porte de Charenton", "Liberté", "Charenton-Écoles", "École Vétérinaire de Maisons-Alfort", "Maisons-Alfort-Stade", "Maisons-Alfort-Les Juilliottes", "Créteil-L'Échat", "Créteil-Université", "Créteil-Préfecture"]).
+linha(8, ['Ballard', 'Lourmel', 'Boucicaut', 'Félix Faure', 'Commerce', 'La Motte-Picquet-Grenelle', 'École Militaire', 'La Tour-Maubourg', 'Invalides', 'Concorde', 'Madeleine', 'Opéra', 'Richelieu-Drouot', 'Grands Boulevards', 'Bonne Nouvelle', 'Strasbourg-Saint-Dennis', 'République', 'Filles du Calvaire', 'Saints-Sébastien-Froissart', 'Chemin Vert', 'Bastille', 'Ledru-Rollin', 'Faidherbe-Chaligny', 'Reuilly-Diderot', 'Montgallet', 'Daumesnil', 'Michel Bizot', 'Porte Dorée', 'Porte de Charenton', 'Liberté', 'Charenton-Écoles', 'École Vétérinaire de Maisons-Alfort', 'Maisons-Alfort-Stade', 'Maisons-Alfort-Les Juilliottes', 'Créteil-L Échat', 'Créteil-Université', 'Créteil-Préfecture']).
 
 /*
 linha(pointedulac, cretellprefecture).
@@ -120,7 +119,3 @@ linha(8, lourmel, boucicaut).
 linha(lourmel, balard).
 linha(balard, lourmel).
 */
-=======
-linha(8, lourmel, balard).
-linha(8, balard, lourmel).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

@@ -1,7 +1,6 @@
 /* linha verde-escuro 3 */
 
-<<<<<<< HEAD
-linha(3, ["Pont de Levallois Bécon", "Anatole France", "Louise Michel", "Porte de Champerret", "Pereire", "Wagram", "Malesherbes", "Villiers", "Europe", "Saint-Lazare", "Havre-Caumartin", "Opéra", "Quatre-Septembre", "Bourse", "Sentier", "Réamur-Sébastopol", "Arts et Métiers", "Temple", "République", "Parmentier", "Rue Saint-Maur", "Père Lachaise", "Gambetta", "Porte de Bagnolet", "Gallieni"]).
+linha(3, ['Pont de Levallois Bécon', 'Anatole France', 'Louise Michel', 'Porte de Champerret', 'Pereire', 'Wagram', 'Malesherbes', 'Villiers', 'Europe', 'Saint-Lazare', 'Havre-Caumartin', 'Opéra', 'Quatre-Septembre', 'Bourse', 'Sentier', 'Réamur-Sébastopol', 'Arts et Métiers', 'Temple', 'République', 'Parmentier', 'Rue Saint-Maur', 'Père Lachaise', 'Gambetta', 'Porte de Bagnolet', 'Gallieni']).
 
 /*
 linha(pontdelevalloisbecon, anatolefrance).
@@ -84,12 +83,3 @@ linha(3, portedebagnolet, gambetta).
 linha(portedebagnolet, galleni).
 linha(galleni, portedebagnolet).
 */
-=======
-linha(3, portedebagnolet, galleni).
-linha(3, galleni, portedebagnolet).
-
-
-
-
-
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

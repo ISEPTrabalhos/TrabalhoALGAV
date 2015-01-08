@@ -1,7 +1,6 @@
 /* linha gold(9) */
 
-<<<<<<< HEAD
-linha(9, ["Pont de Sèvres", "Billancourt", "Marcel Sembat", "Porte de Saint-Cloud", "Exelmans", "Michel-Ange-Auteuil", "Jasmin", "Ranelagh", "La Muette", "Rue de la Pompe", "Trocadéro", "Iéna", "Alma-Marceau", "Franklin D.Roosevelt", "Saint-Philippe-du-Roule", "Miromesnil", "Saint-Augustin", "Havre-Caumartin", "Chaussée d'Antin-La Fayette", "Richelieu-Drouot", "Grands Boulevards", "Bonne Nouvelle", "Strasbourg-Saint-Dennis", "République", "Oberkampf", "Saint-Ambroise", "Voltaire", "Charonne", "Rue des Boulets", "Nation", "Buzenval", "Maraichers", "Porte de Montreuil", "Robespierre", "Croix de Chavaux", "Mairie de Montreuil"]).
+linha(9, ['Pont de Sèvres', 'Billancourt', 'Marcel Sembat', 'Porte de Saint-Cloud', 'Exelmans', 'Michel-Ange-Auteuil', 'Jasmin', 'Ranelagh', 'La Muette', 'Rue de la Pompe', 'Trocadéro', 'Iéna', 'Alma-Marceau', 'Franklin D.Roosevelt', 'Saint-Philippe-du-Roule', 'Miromesnil', 'Saint-Augustin', 'Havre-Caumartin', 'Chaussée d Antin-La Fayette', 'Richelieu-Drouot', 'Grands Boulevards', 'Bonne Nouvelle', 'Strasbourg-Saint-Dennis', 'République', 'Oberkampf', 'Saint-Ambroise', 'Voltaire', 'Charonne', 'Rue des Boulets', 'Nation', 'Buzenval', 'Maraichers', 'Porte de Montreuil', 'Robespierre', 'Croix de Chavaux', 'Mairie de Montreuil']).
 
 /*
 linha(pontdesevres, billancourt).
@@ -111,7 +110,3 @@ linha(9, croixdechavaux, robespierre).
 linha(croixdechavaux, mairiedemontreuli).
 linha(mairiedemontreuli, croixdechavaux).
 */
-=======
-linha(9, croixdechavaux, mairiedemontreuli).
-linha(9, mairiedemontreuli, croixdechavaux).
->>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

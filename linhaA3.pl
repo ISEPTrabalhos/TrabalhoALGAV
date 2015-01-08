@@ -1,1 +1,1 @@
-linha(A3,["Poissy","La Défense","Charles de Gaulle Êtolle","Auber","Les Halles","Gare d'Austerlitz","Nation","Vincennes","Marne-la-Vallée"]).
+linha(A3,['Poissy','La Défense','Charles de Gaulle Êtolle','Auber','Les Halles','Gare d Austerlitz','Nation','Vincennes','Marne-la-Vallée']).
