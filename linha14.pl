@@ -1,22 +1,22 @@
 /* linha roxa(14) */
 
-linha(olympiades, bibliothequefrmitterrand).
-linha(bibliothequefrmitterrand, olympiades).
+linha(14, olympiades, bibliothequefrmitterrand).
+linha(14, bibliothequefrmitterrand, olympiades).
 
-linha(bibliothequefrmitterrand, courstemillion).
-linha(courstemillion, bibliothequefrmitterrand).
+linha(14, bibliothequefrmitterrand, courstemillion).
+linha(14, courstemillion, bibliothequefrmitterrand).
 
-linha(courstemillion, bercy).
-linha(bercy, courstemillion).
+linha(14, courstemillion, bercy).
+linha(14, bercy, courstemillion).
 
-linha(garedausterlitz, chatelet).
-linha(chatelet, garedausterlitz).
+linha(14, garedausterlitz, chatelet).
+linha(14, chatelet, garedausterlitz).
 
-linha(chatelet, pyramids).
-linha(pyramids, chatelet).
+linha(14, chatelet, pyramids).
+linha(14, pyramids, chatelet).
 
-linha(pyramids, madeleine).
-linha(madeleine, pyramids).
+linha(14, pyramids, madeleine).
+linha(14, madeleine, pyramids).
 
-linha(madeleine, saintlazare).
-linha(saintlazare, madeleine).
+linha(14, madeleine, saintlazare).
+linha(14, saintlazare, madeleine).

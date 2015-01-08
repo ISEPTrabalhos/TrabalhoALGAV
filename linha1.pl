@@ -1,73 +1,73 @@
 /* linha amarela (1) */
 
-linha(ladefense, esplanadedeladefense).
-linha(esplanadedeladefense, ladefense).
+linha(1, ladefense, esplanadedeladefense).
+linha(1, esplanadedeladefense, ladefense).
 
-linha(esplanadedeladefense, pontdeneuilly).
-linha(pontdeneuilly, esplanadedeladefense).
+linha(1, esplanadedeladefense, pontdeneuilly).
+linha(1, pontdeneuilly, esplanadedeladefense).
 
-linha(pontdeneuilly, lessabions).
-linha(lessabions, pontdeneuilly).
+linha(1, pontdeneuilly, lessabions).
+linha(1, lessabions, pontdeneuilly).
 
-linha(lessabions, portemaillot).
-linha(portemaillot, lessabions).
+linha(1, lessabions, portemaillot).
+linha(1, portemaillot, lessabions).
 
-linha(portemaillot, argentine).
-linha(argentine, portemaillot).
+linha(1, portemaillot, argentine).
+linha(1, argentine, portemaillot).
 
-linha(argentine, charlesdegaulleetolle).
-linha(charlesdegaulleetolle, argentine).
+linha(1, argentine, charlesdegaulleetolle).
+linha(1, charlesdegaulleetolle, argentine).
 
-linha(charlesdegaulleetolle, georgev).
-linha(georgev, charlesdegaulleetolle).
+linha(1, charlesdegaulleetolle, georgev).
+linha(1, georgev, charlesdegaulleetolle).
 
-linha(georgev, franklindroosevelt).
-linha(franklindroosevelt, georgev).
+linha(1, georgev, franklindroosevelt).
+linha(1, franklindroosevelt, georgev).
 
-linha(franklindroosevelt, champselyseesclemenceau).
-linha(champselyseesclemenceau, franklindroosevelt).
+linha(1, franklindroosevelt, champselyseesclemenceau).
+linha(1, champselyseesclemenceau, franklindroosevelt).
 
-linha(champselyseesclemenceau, concorde).
-linha(concorde, champselyseesclemenceau).
+linha(1, champselyseesclemenceau, concorde).
+linha(1, concorde, champselyseesclemenceau).
 
-linha(concorde, tuileries).
-linha(tuileries, concorde).
+linha(1, concorde, tuileries).
+linha(1, tuileries, concorde).
 
-linha(tuileries, palaisroyalmuseedulouvre).
-linha(palaisroyalmuseedulouvre, tuileries).
+linha(1, tuileries, palaisroyalmuseedulouvre).
+linha(1, palaisroyalmuseedulouvre, tuileries).
 
-linha(palaisroyalmuseedulouvre, louvrerivoli).
-linha(louvrerivoli, palaisroyalmuseedulouvre).
+linha(1, palaisroyalmuseedulouvre, louvrerivoli).
+linha(1, louvrerivoli, palaisroyalmuseedulouvre).
 
-linha(louvrerivoli, chatelet).
-linha(chatelet, louvrerivoli).
+linha(1, louvrerivoli, chatelet).
+linha(1, chatelet, louvrerivoli).
 
-linha(chatelet, hoteldeville).
-linha(hoteldeville, chatelet).
+linha(1, chatelet, hoteldeville).
+linha(1, hoteldeville, chatelet).
 
-linha(hoteldeville, stpaul).
-linha(stpaul, hoteldeville).
+linha(1, hoteldeville, stpaul).
+linha(1, stpaul, hoteldeville).
 
-linha(stpaul, bastille).
-linha(bastille, stpaul).
+linha(1, stpaul, bastille).
+linha(1, bastille, stpaul).
 
-linha(bastille, garedelyon).
-linha(garedelyon, bastille).
+linha(1, bastille, garedelyon).
+linha(1, garedelyon, bastille).
 
-linha(garedelyon, reuillydiderot).
-linha(reuillydiderot, garedelyon).
+linha(1, garedelyon, reuillydiderot).
+linha(1, reuillydiderot, garedelyon).
 
-linha(reuillydiderot, natlon).
-linha(natlon, reuillydiderot).
+linha(1, reuillydiderot, natlon).
+linha(1, natlon, reuillydiderot).
 
-linha(natlon, portedevincennes).
-linha(portedevincennes, natlon).
+linha(1, natlon, portedevincennes).
+linha(1, portedevincennes, natlon).
 
-linha(portedevincennes, stmande).
-linha(stmande, portedevincennes).
+linha(1, portedevincennes, stmande).
+linha(1, stmande, portedevincennes).
 
-linha(stmande, berault).
-linha(berault, stmande).
+linha(1, stmande, berault).
+linha(1, berault, stmande).
 
-linha(berault, chateaudevincennes).
-linha(chateaudevincennes, berault).
+linha(1, berault, chateaudevincennes).
+linha(1, chateaudevincennes, berault).

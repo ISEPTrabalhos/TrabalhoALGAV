@@ -1,79 +1,79 @@
 /* linha verde-escuro 3 */
 
-linha(pontdelevalloisbecon, anatolefrance).
-linha(anatolefrance, pontdelevalloisbecon).
+linha(3, pontdelevalloisbecon, anatolefrance).
+linha(3, anatolefrance, pontdelevalloisbecon).
 
-linha(anatolefrance, louisemichel).
-linha(louisemichel, anatolefrance).
+linha(3, anatolefrance, louisemichel).
+linha(3, louisemichel, anatolefrance).
 
-linha(louisemichel, portedechamperret).
-linha(portedechamperret, louisemichel).
+linha(3, louisemichel, portedechamperret).
+linha(3, portedechamperret, louisemichel).
 
-linha(portedechamperret, pereirelevallois).
-linha(pereirelevallois, portedechamperret).
+linha(3, portedechamperret, pereirelevallois).
+linha(3, pereirelevallois, portedechamperret).
 
-linha(pereirelevallois, wagram).
-linha(wagram, pereirelevallois).
+linha(3, pereirelevallois, wagram).
+linha(3, wagram, pereirelevallois).
 
-linha(wagram, malessherbes).
-linha(malessherbes, wagram).
+linha(3, wagram, malessherbes).
+linha(3, malessherbes, wagram).
 
-linha(malessherbes, villiers).
-linha(villiers, malessherbes).
+linha(3, malessherbes, villiers).
+linha(3, villiers, malessherbes).
 
-linha(villiers, europe).
-linha(europe, villiers).
+linha(3, villiers, europe).
+linha(3, europe, villiers).
 
-linha(europe, garesaintlazare).
-linha(garesaintlazare, europe).
+linha(3, europe, garesaintlazare).
+linha(3, garesaintlazare, europe).
 
-linha(garesaintlazare, saintlazare).
-linha(saintlazare, garesaintlazare).
+linha(3, garesaintlazare, saintlazare).
+linha(3, saintlazare, garesaintlazare).
 
-linha(saintlazare, havrecaumartin).
-linha(havrecaumartin, saintlazare).
+linha(3, saintlazare, havrecaumartin).
+linha(3, havrecaumartin, saintlazare).
 
-linha(havrecaumartin, opera).
-linha(opera, havrecaumartin).
+linha(3, havrecaumartin, opera).
+linha(3, opera, havrecaumartin).
 
-linha(opera, quatreseptembre).
-linha(quatreseptembre, opera).
+linha(3, opera, quatreseptembre).
+linha(3, quatreseptembre, opera).
 
-linha(quatreseptembre, bourse).
-linha(bourse, quatreseptembre).
+linha(3, quatreseptembre, bourse).
+linha(3, bourse, quatreseptembre).
 
-linha(bourse, sentier).
-linha(sentier, bourse).
+linha(3, bourse, sentier).
+linha(3, sentier, bourse).
 
-linha(sentier, reaumursebastopol).
-linha(reaumursebastopol, sentier).
+linha(3, sentier, reaumursebastopol).
+linha(3, reaumursebastopol, sentier).
 
-linha(reaumursebastopol, artsetmetiers).
-linha(artsetmetiers, reaumursebastopol).
+linha(3, reaumursebastopol, artsetmetiers).
+linha(3, artsetmetiers, reaumursebastopol).
 
-linha(artsetmetiers, temple).
-linha(temple, artsetmetiers).
+linha(3, artsetmetiers, temple).
+linha(3, temple, artsetmetiers).
 
-linha(temple, republique).
-linha(republique, temple).
+linha(3, temple, republique).
+linha(3, republique, temple).
 
-linha(republique, parmentier).
-linha(parmentier, republique).
+linha(3, republique, parmentier).
+linha(3, parmentier, republique).
 
-linha(parmentier, ruesaintmaur).
-linha(ruesaintmaur, parmentier).
+linha(3, parmentier, ruesaintmaur).
+linha(3, ruesaintmaur, parmentier).
 
-linha(ruesaintmaur, perelachaise).
-linha(perelachaise, ruesaintmaur).
+linha(3, ruesaintmaur, perelachaise).
+linha(3, perelachaise, ruesaintmaur).
 
-linha(perelachaise, gambetta).
-linha(gambetta, perelachaise).
+linha(3, perelachaise, gambetta).
+linha(3, gambetta, perelachaise).
 
-linha(gambetta, portedebagnolet).
-linha(portedebagnolet, gambetta).
+linha(3, gambetta, portedebagnolet).
+linha(3, portedebagnolet, gambetta).
 
-linha(portedebagnolet, galleni).
-linha(galleni, portedebagnolet).
+linha(3, portedebagnolet, galleni).
+linha(3, galleni, portedebagnolet).
 
 
 

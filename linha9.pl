@@ -1,103 +1,103 @@
 /* linha gold(9) */
 
-linha(pontdesevres, billancourt).
-linha(billancourt, pontdesevres).
+linha(9, pontdesevres, billancourt).
+linha(9, billancourt, pontdesevres).
 
-linha(billancourt, marcelsembat).
-linha(marcelsembat, billancourt).
+linha(9, billancourt, marcelsembat).
+linha(9, marcelsembat, billancourt).
 
-linha(marcelsembat, portedestcloud).
-linha(portedestcloud, marcelsembat).
+linha(9, marcelsembat, portedestcloud).
+linha(9, portedestcloud, marcelsembat).
 
-linha(portedestcloud, exelmans).
-linha(exelmans, portedestcloud).
+linha(9, portedestcloud, exelmans).
+linha(9, exelmans, portedestcloud).
 
-linha(exelmans, michelangemolitor).
-linha(michelangemolitor, exelmans).
+linha(9, exelmans, michelangemolitor).
+linha(9, michelangemolitor, exelmans).
 
-linha(michelangemolitor, michelangeauteuil).
-linha(michelangeauteuil, michelangemolitor).
+linha(9, michelangemolitor, michelangeauteuil).
+linha(9, michelangeauteuil, michelangemolitor).
 
-linha(michelangeauteuil, jasmin).
-linha(jasmin, michelangeauteuil).
+linha(9, michelangeauteuil, jasmin).
+linha(9, jasmin, michelangeauteuil).
 
-linha(jasmin, ranelagh).
-linha(ranelagh, jasmin).
+linha(9, jasmin, ranelagh).
+linha(9, ranelagh, jasmin).
 
-linha(ranelagh, lamuette).
-linha(lamuette, ranelagh).
+linha(9, ranelagh, lamuette).
+linha(9, lamuette, ranelagh).
 
-linha(lamuette, ruedelapompe).
-linha(ruedelapompe, lamuette).
+linha(9, lamuette, ruedelapompe).
+linha(9, ruedelapompe, lamuette).
 
-linha(ruedelapompe, iena).
-linha(iena, ruedelapompe).
+linha(9, ruedelapompe, iena).
+linha(9, iena, ruedelapompe).
 
-linha(iena, almamarceau).
-linha(almamarceau, iena).
+linha(9, iena, almamarceau).
+linha(9, almamarceau, iena).
 
-linha(almamarceau, franklindroosevelt).
-linha(franklindroosevelt, almamarceau).
+linha(9, almamarceau, franklindroosevelt).
+linha(9, franklindroosevelt, almamarceau).
 
-linha(franklindroosevelt, saintphillipeduroule).
-linha(saintphillipeduroule, franklindroosevelt).
+linha(9, franklindroosevelt, saintphillipeduroule).
+linha(9, saintphillipeduroule, franklindroosevelt).
 
-linha(saintphillipeduroule, miromesnil).
-linha(miromesnil, saintphillipeduroule).
+linha(9, saintphillipeduroule, miromesnil).
+linha(9, miromesnil, saintphillipeduroule).
 
-linha(miromesnil, saintaugustin).
-linha(saintaugustin, miromesnil).
+linha(9, miromesnil, saintaugustin).
+linha(9, saintaugustin, miromesnil).
 
-linha(saintaugustin, havrecaumartin).
-linha(havrecaumartin, saintaugustin).
+linha(9, saintaugustin, havrecaumartin).
+linha(9, havrecaumartin, saintaugustin).
 
-linha(havrecaumartin, chausseedantinlafayette).
-linha(chausseedantinlafayette, havrecaumartin).
+linha(9, havrecaumartin, chausseedantinlafayette).
+linha(9, chausseedantinlafayette, havrecaumartin).
 
-linha(chausseedantinlafayette, richelieudrouot).
-linha(richelieudrouot, chausseedantinlafayette).
+linha(9, chausseedantinlafayette, richelieudrouot).
+linha(9, richelieudrouot, chausseedantinlafayette).
 
-linha(richelieudrouot, grandsboulevards).
-linha(grandsboulevards, richelieudrouot).
+linha(9, richelieudrouot, grandsboulevards).
+linha(9, grandsboulevards, richelieudrouot).
 
-linha(grandsboulevards, bonnenouvelle).
-linha(bonnenouvelle, grandsboulevards).
+linha(9, grandsboulevards, bonnenouvelle).
+linha(9, bonnenouvelle, grandsboulevards).
 
-linha(bonnenouvelle, strasbourgsaintdenis).
-linha(strasbourgsaintdenis, bonnenouvelle).
+linha(9, bonnenouvelle, strasbourgsaintdenis).
+linha(9, strasbourgsaintdenis, bonnenouvelle).
 
-linha(strasbourgsaintdenis, republique).
-linha(republique, strasbourgsaintdenis).
+linha(9, strasbourgsaintdenis, republique).
+linha(9, republique, strasbourgsaintdenis).
 
-linha(republique, oberkampf).
-linha(oberkampf, republique).
+linha(9, republique, oberkampf).
+linha(9, oberkampf, republique).
 
-linha(oberkampf, saintambroise).
-linha(saintambroise, oberkampf).
+linha(9, oberkampf, saintambroise).
+linha(9, saintambroise, oberkampf).
 
-linha(saintambroise, voltaire).
-linha(voltaire, saintambroise).
+linha(9, saintambroise, voltaire).
+linha(9, voltaire, saintambroise).
 
-linha(voltaire, charonne).
-linha(charonne, voltaire).
+linha(9, voltaire, charonne).
+linha(9, charonne, voltaire).
 
-linha(charonne, ruedesboulets).
-linha(ruedesboulets, charonne).
+linha(9, charonne, ruedesboulets).
+linha(9, ruedesboulets, charonne).
 
-linha(ruedesboulets, natlon).
-linha(natlon, ruedesboulets).
+linha(9, ruedesboulets, natlon).
+linha(9, natlon, ruedesboulets).
 
-linha(natlon, buzenval).
-linha(buzenval, natlon).
+linha(9, natlon, buzenval).
+linha(9, buzenval, natlon).
 
-linha(buzenval, portedemontreuil).
-linha(portedemontreuil, buzenval).
+linha(9, buzenval, portedemontreuil).
+linha(9, portedemontreuil, buzenval).
 
-linha(portedemontreuil, robespierre).
-linha(robespierre, portedemontreuil).
+linha(9, portedemontreuil, robespierre).
+linha(9, robespierre, portedemontreuil).
 
-linha(robespierre, croixdechavaux).
-linha(croixdechavaux, robespierre).
+linha(9, robespierre, croixdechavaux).
+linha(9, croixdechavaux, robespierre).
 
-linha(croixdechavaux, mairiedemontreuli).
-linha(mairiedemontreuli, croixdechavaux).
+linha(9, croixdechavaux, mairiedemontreuli).
+linha(9, mairiedemontreuli, croixdechavaux).

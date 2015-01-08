@@ -1,62 +1,62 @@
 /* linha laranja escuro(10) */
 
-linha(boulognepontdestcloud, boulognejeanjaures).
-linha(boulognejeanjaures, boulognepontdestcloud).
+linha(10,  boulognepontdestcloud, boulognejeanjaures).
+linha(10,  boulognejeanjaures, boulognepontdestcloud).
 
-linha(boulognejeanjaures, michelangemolitor).
+linha(10,  boulognejeanjaures, michelangemolitor).
 
-linha(michelangemolitor, chardonlagache).
+linha(10,  michelangemolitor, chardonlagache).
 
-linha(chardonlagache, mirabeau).
+linha(10,  chardonlagache, mirabeau).
 
-linha(mirabeau, javelandrecitroen).
+linha(10,  mirabeau, javelandrecitroen).
 
-linha(javelandrecitroen, eglisedauteuil).
+linha(10,  javelandrecitroen, eglisedauteuil).
 
-linha(eglisedauteuil, michelangeauteuil).
+linha(10,  eglisedauteuil, michelangeauteuil).
 
-linha(michelangeauteuil, portedauteuli).
+linha(10,  michelangeauteuil, portedauteuli).
 
-linha(portedauteuli, boulognejeanjaures).
+linha(10,  portedauteuli, boulognejeanjaures).
 
-linha(javelandrecitroen, charlesmichels).
-linha(charlesmichels, javelandrecitroen).
+linha(10,  javelandrecitroen, charlesmichels).
+linha(10,  charlesmichels, javelandrecitroen).
 
-linha(charlesmichels, avenueemilezola).
-linha(avenueemilezola, charlesmichels).
+linha(10,  charlesmichels, avenueemilezola).
+linha(10,  avenueemilezola, charlesmichels).
 
-linha(avenueemilezola, lamottepicquetgrenelle).
-linha(lamottepicquetgrenelle, avenueemilezola).
+linha(10,  avenueemilezola, lamottepicquetgrenelle).
+linha(10,  lamottepicquetgrenelle, avenueemilezola).
 
-linha(lamottepicquetgrenelle, segur).
-linha(segur, lamottepicquetgrenelle).
+linha(10,  lamottepicquetgrenelle, segur).
+linha(10,  segur, lamottepicquetgrenelle).
 
-linha(segur, duroc).
-linha(duroc, segur).
+linha(10,  segur, duroc).
+linha(10,  duroc, segur).
 
-linha(duroc, vaneau).
-linha(vaneau, duroc).
+linha(10,  duroc, vaneau).
+linha(10,  vaneau, duroc).
 
-linha(vaneau, sevresbabylone).
-linha(sevresbabylone, vaneau).
+linha(10,  vaneau, sevresbabylone).
+linha(10,  sevresbabylone, vaneau).
 
-linha(sevresbabylone, mabillon).
-linha(mabillon, sevresbabylone).
+linha(10,  sevresbabylone, mabillon).
+linha(10,  mabillon, sevresbabylone).
 
-linha(mabillon, odeon).
-linha(odeon, mabillon).
+linha(10,  mabillon, odeon).
+linha(10,  odeon, mabillon).
 
-linha(odeon, clunylasorbonne).
-linha(clunylasorbonne, odeon).
+linha(10,  odeon, clunylasorbonne).
+linha(10,  clunylasorbonne, odeon).
 
-linha(clunylasorbonne, maubertmutualite).
-linha(maubertmutualite, clunylasorbonne).
+linha(10,  clunylasorbonne, maubertmutualite).
+linha(10,  maubertmutualite, clunylasorbonne).
 
-linha(maubertmutualite, cardinallemoine).
-linha(cardinallemoine, maubertmutualite).
+linha(10,  maubertmutualite, cardinallemoine).
+linha(10,  cardinallemoine, maubertmutualite).
 
-linha(cardinallemoine, jussieu).
-linha(jussieu, cardinallemoine).
+linha(10,  cardinallemoine, jussieu).
+linha(10,  jussieu, cardinallemoine).
 
-linha(jussieu, garedausterlitz).
-linha(garedausterlitz, jussieu).
+linha(10,  jussieu, garedausterlitz).
+linha(10,  garedausterlitz, jussieu).

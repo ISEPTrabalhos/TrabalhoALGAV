@@ -1,73 +1,73 @@
 /* linha azul(2) */
 
-linha(portedauphine, victorhugo).
-linha(victorhugo, portedauphine).
+linha(2, portedauphine, victorhugo).
+linha(2, victorhugo, portedauphine).
 
-linha(victorhugo, charlesdegaulleetolle).
-linha(charlesdegaulleetolle, victorhugo).
+linha(2, victorhugo, charlesdegaulleetolle).
+linha(2, charlesdegaulleetolle, victorhugo).
 
-linha(charlesdegaulleetolle, ternes).
-linha(ternes, charlesdegaulleetolle).
+linha(2, charlesdegaulleetolle, ternes).
+linha(2, ternes, charlesdegaulleetolle).
 
-linha(ternes, courcelles).
-linha(courcelles, ternes).
+linha(2, ternes, courcelles).
+linha(2, courcelles, ternes).
 
-linha(courcelles, monceau).
-linha(monceau, courcelles).
+linha(2, courcelles, monceau).
+linha(2, monceau, courcelles).
 
-linha(monceau, villiers).
-linha(villiers, monceau).
+linha(2, monceau, villiers).
+linha(2, villiers, monceau).
 
-linha(villiers, rome).
-linha(rome, villiers).
+linha(2, villiers, rome).
+linha(2, rome, villiers).
 
-linha(rome, placedeclichy).
-linha(placedeclichy, rome).
+linha(2, rome, placedeclichy).
+linha(2, placedeclichy, rome).
 
-linha(placedeclichy, blanche).
-linha(blanche, placedeclichy).
+linha(2, placedeclichy, blanche).
+linha(2, blanche, placedeclichy).
 
-linha(blanche, pigalle).
-linha(pigalle, blanche).
+linha(2, blanche, pigalle).
+linha(2, pigalle, blanche).
 
-linha(pigalle, anvers).
-linha(anvers, pigalle).
+linha(2, pigalle, anvers).
+linha(2, anvers, pigalle).
 
-linha(anvers, barbesrochechouart).
-linha(barbesrochechouart, anvers).
+linha(2, anvers, barbesrochechouart).
+linha(2, barbesrochechouart, anvers).
 
-linha(barbesrochechouart, lachapelle).
-linha(lachapelle, barbesrochechouart).
+linha(2, barbesrochechouart, lachapelle).
+linha(2, lachapelle, barbesrochechouart).
 
-linha(lachapelle, stalingrad).
-linha(stalingrad, lachapelle).
+linha(2, lachapelle, stalingrad).
+linha(2, stalingrad, lachapelle).
 
-linha(stalingrad, jaures).
-linha(jaures, stalingrad).
+linha(2, stalingrad, jaures).
+linha(2, jaures, stalingrad).
 
-linha(jaures, colonelfabien).
-linha(colonelfabien, jaures).
+linha(2, jaures, colonelfabien).
+linha(2, colonelfabien, jaures).
 
-linha(colonelfabien, belleville).
-linha(belleville, colonelfabien).
+linha(2, colonelfabien, belleville).
+linha(2, belleville, colonelfabien).
 
-linha(belleville, couronnes).
-linha(couronnes, belleville).
+linha(2, belleville, couronnes).
+linha(2, couronnes, belleville).
 
-linha(couronnes, menilmontant).
-linha(menilmontant, couronnes).
+linha(2, couronnes, menilmontant).
+linha(2, menilmontant, couronnes).
 
-linha(menilmontant, perelachaise).
-linha(perelachaise, menilmontant).
+linha(2, menilmontant, perelachaise).
+linha(2, perelachaise, menilmontant).
 
-linha(perelachaise, philippeauguste).
-linha(philippeauguste, perelachaise).
+linha(2, perelachaise, philippeauguste).
+linha(2, philippeauguste, perelachaise).
 
-linha(philippeauguste, alexandredumas).
-linha(alexandredumas, philippeauguste).
+linha(2, philippeauguste, alexandredumas).
+linha(2, alexandredumas, philippeauguste).
 
-linha(alexandredumas, avron).
-linha(avron, alexandredumas).
+linha(2, alexandredumas, avron).
+linha(2, avron, alexandredumas).
 
-linha(avron, natlon).
-linha(natlon, avron).
+linha(2, avron, natlon).
+linha(2, natlon, avron).

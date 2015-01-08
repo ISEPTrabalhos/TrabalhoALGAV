@@ -1,55 +1,55 @@
 /* linha azul(B) */
-linha(robinson, bourglareine).
-linha(saintremy, bourglareine).
-linha(bourglareine, robinson).
-linha(bourglareine, saintremy).
+linha(B, robinson, bourglareine).
+linha(B, saintremy, bourglareine).
+linha(B, bourglareine, robinson).
+linha(B, bourglareine, saintremy).
 
-linha(bourglareine, bagneux).
-linha(bagneux, bourglareine).
+linha(B, bourglareine, bagneux).
+linha(B, bagneux, bourglareine).
 
-linha(bagneux, arcueilcachan).
-linha(arcueilcachan, bagneux).
+linha(B, bagneux, arcueilcachan).
+linha(B, arcueilcachan, bagneux).
 
-linha(arcueilcachan, laplace).
-linha(laplace, arcueilcachan).
+linha(B, arcueilcachan, laplace).
+linha(B, laplace, arcueilcachan).
 
-linha(laplace, gentilly).
-linha(gentilly, laplace).
+linha(B, laplace, gentilly).
+linha(B, gentilly, laplace).
 
-linha(gentilly, citeuniversitaire).
-linha(citeuniversitaire, gentilly).
+linha(B, gentilly, citeuniversitaire).
+linha(B, citeuniversitaire, gentilly).
 
-linha(citeuniversitaire, denfertrochereau).
-linha(denfertrochereau, citeuniversitaire).
+linha(B, citeuniversitaire, denfertrochereau).
+linha(B, denfertrochereau, citeuniversitaire).
 
-linha(denfertrochereau, portroyal).
-linha(portroyal, denfertrochereau).
+linha(B, denfertrochereau, portroyal).
+linha(B, portroyal, denfertrochereau).
 
-linha(portroyal, luxembourg).
-linha(luxembourg, portroyal).
+linha(B, portroyal, luxembourg).
+linha(B, luxembourg, portroyal).
 
-linha(luxembourg, clunylasorbonne).
-linha(clunylasorbonne, luxembourg).
+linha(B, luxembourg, clunylasorbonne).
+linha(B, clunylasorbonne, luxembourg).
 
-linha(clunylasorbonne, chateletleshalles).
-linha(chateletleshalles, clunylasorbonne).
+linha(B, clunylasorbonne, chateletleshalles).
+linha(B, chateletleshalles, clunylasorbonne).
 
-linha(chateletleshalles, garedunord).
-linha(garedunord, chateletleshalles).
+linha(B, chateletleshalles, garedunord).
+linha(B, garedunord, chateletleshalles).
 
-linha(garedunord, laplainestadedefrance).
-linha(laplainestadedefrance, garedunord).
+linha(B, garedunord, laplainestadedefrance).
+linha(B, laplainestadedefrance, garedunord).
 
-linha(laplainestadedefrance, lacourneuveaubervilliers).
-linha(lacourneuveaubervilliers, laplainestadedefrance).
+linha(B, laplainestadedefrance, lacourneuveaubervilliers).
+linha(B, lacourneuveaubervilliers, laplainestadedefrance).
 
-linha(lacourneuveaubervilliers, lebourget).
-linha(lebourget, lacourneuveaubervilliers).
+linha(B, lacourneuveaubervilliers, lebourget).
+linha(B, lebourget, lacourneuveaubervilliers).
 
-linha(lebourget, parcdesexpositions).
-linha(lebourget, mitryclaye).
-linha(parcdesexpositions, lebourget).
-linha(mitryclaye, lebourget).
+linha(B, lebourget, parcdesexpositions).
+linha(B, lebourget, mitryclaye).
+linha(B, parcdesexpositions, lebourget).
+linha(B, mitryclaye, lebourget).
 
-linha(parcdesexpositions, aeroportcharlesdegaulle).
-linha(aeroportcharlesdegaulle, parcdesexpositions).
+linha(B, parcdesexpositions, aeroportcharlesdegaulle).
+linha(B, aeroportcharlesdegaulle, parcdesexpositions).

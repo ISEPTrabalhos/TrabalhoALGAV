@@ -1,112 +1,112 @@
 /* linha roxa clara(8) */
 
-linha(pointedulac, cretellprefecture).
-linha(cretellprefecture, pointedulac).
+linha(8, pointedulac, cretellprefecture).
+linha(8, cretellprefecture, pointedulac).
 
-linha(cretellprefecture, cretelluniversite).
-linha(cretelluniversite, cretellprefecture).
+linha(8, cretellprefecture, cretelluniversite).
+linha(8, cretelluniversite, cretellprefecture).
 
-linha(cretelluniversite, cretelllechat).
-linha(cretelllechat, cretelluniversite).
+linha(8, cretelluniversite, cretelllechat).
+linha(8, cretelllechat, cretelluniversite).
 
-linha(cretelllechat, maisonsalfortlesjuilliottes).
-linha(maisonsalfortlesjuilliottes, cretelllechat).
+linha(8, cretelllechat, maisonsalfortlesjuilliottes).
+linha(8, maisonsalfortlesjuilliottes, cretelllechat).
 
-linha(maisonsalfortlesjuilliottes, maisonsalfortstade).
-linha(maisonsalfortstade, maisonsalfortlesjuilliottes).
+linha(8, maisonsalfortlesjuilliottes, maisonsalfortstade).
+linha(8, maisonsalfortstade, maisonsalfortlesjuilliottes).
 
-linha(maisonsalfortstade, ecoleveterinairedemaisonsalfort).
-linha(ecoleveterinairedemaisonsalfort, maisonsalfortstade).
+linha(8, maisonsalfortstade, ecoleveterinairedemaisonsalfort).
+linha(8, ecoleveterinairedemaisonsalfort, maisonsalfortstade).
 
-linha(ecoleveterinairedemaisonsalfort, charentonecoles).
-linha(charentonecoles, ecoleveterinairedemaisonsalfort).
+linha(8, ecoleveterinairedemaisonsalfort, charentonecoles).
+linha(8, charentonecoles, ecoleveterinairedemaisonsalfort).
 
-linha(charentonecoles, liberte).
-linha(liberte, charentonecoles).
+linha(8, charentonecoles, liberte).
+linha(8, liberte, charentonecoles).
 
-linha(liberte, portedecharenton).
-linha(portedecharenton, liberte).
+linha(8, liberte, portedecharenton).
+linha(8, portedecharenton, liberte).
 
-linha(portedecharenton, portededoree).
-linha(portededoree, portedecharenton).
+linha(8, portedecharenton, portededoree).
+linha(8, portededoree, portedecharenton).
 
-linha(portededoree, michelbizot).
-linha(michelbizot, portededoree).
+linha(8, portededoree, michelbizot).
+linha(8, michelbizot, portededoree).
 
-linha(michelbizot, daumesnil).
-linha(daumesnil, michelbizot).
+linha(8, michelbizot, daumesnil).
+linha(8, daumesnil, michelbizot).
 
-linha(daumesnil, montgallet).
-linha(montgallet, daumesnil).
+linha(8, daumesnil, montgallet).
+linha(8, montgallet, daumesnil).
 
-linha(montgallet, reuillydiderot).
-linha(reuillydiderot, montgallet).
+linha(8, montgallet, reuillydiderot).
+linha(8, reuillydiderot, montgallet).
 
-linha(reuillydiderot, faidherbechaligny).
-linha(faidherbechaligny, reuillydiderot).
+linha(8, reuillydiderot, faidherbechaligny).
+linha(8, faidherbechaligny, reuillydiderot).
 
-linha(faidherbechaligny, ledrurollin).
-linha(ledrurollin, faidherbechaligny).
+linha(8, faidherbechaligny, ledrurollin).
+linha(8, ledrurollin, faidherbechaligny).
 
-linha(ledrurollin, bastille).
-linha(bastille, ledrurollin).
+linha(8, ledrurollin, bastille).
+linha(8, bastille, ledrurollin).
 
-linha(bastille, cheminvert).
-linha(cheminvert, bastille).
+linha(8, bastille, cheminvert).
+linha(8, cheminvert, bastille).
 
-linha(cheminvert, stsebastienfroissart).
-linha(stsebastienfroissart, cheminvert).
+linha(8, cheminvert, stsebastienfroissart).
+linha(8, stsebastienfroissart, cheminvert).
 
-linha(stsebastienfroissart, fillesducalvaire).
-linha(fillesducalvaire, stsebastienfroissart).
+linha(8, stsebastienfroissart, fillesducalvaire).
+linha(8, fillesducalvaire, stsebastienfroissart).
 
-linha(fillesducalvaire, republique).
-linha(republique, fillesducalvaire).
+linha(8, fillesducalvaire, republique).
+linha(8, republique, fillesducalvaire).
 
-linha(republique, strasbourgsaintdenis).
-linha(strasbourgsaintdenis, republique).
+linha(8, republique, strasbourgsaintdenis).
+linha(8, strasbourgsaintdenis, republique).
 
-linha(strasbourgsaintdenis, bonnenouvelle).
-linha(bonnenouvelle, strasbourgsaintdenis).
+linha(8, strasbourgsaintdenis, bonnenouvelle).
+linha(8, bonnenouvelle, strasbourgsaintdenis).
 
-linha(bonnenouvelle, grandsboulevards).
-linha(grandsboulevards, bonnenouvelle).
+linha(8, bonnenouvelle, grandsboulevards).
+linha(8, grandsboulevards, bonnenouvelle).
 
-linha(grandsboulevards,  richelieudrouot).
-linha(richelieudrouot, grandsboulevards).
+linha(8, grandsboulevards,  richelieudrouot).
+linha(8, richelieudrouot, grandsboulevards).
 
-linha(richelieudrouot, opera).
-linha(opera, richelieudrouot).
+linha(8, richelieudrouot, opera).
+linha(8, opera, richelieudrouot).
 
-linha(opera, madeleine).
-linha(madeleine, opera).
+linha(8, opera, madeleine).
+linha(8, madeleine, opera).
 
-linha(madeleine, concorde).
-linha(concorde, madeleine).
+linha(8, madeleine, concorde).
+linha(8, concorde, madeleine).
 
-linha(concorde, invalides).
-linha(invalides, concorde).
+linha(8, concorde, invalides).
+linha(8, invalides, concorde).
 
-linha(invalides, latourmaubourg).
-linha(latourmaubourg, invalides).
+linha(8, invalides, latourmaubourg).
+linha(8, latourmaubourg, invalides).
 
-linha(latourmaubourg, ecolemilitaire).
-linha(ecolemilitaire, latourmaubourg).
+linha(8, latourmaubourg, ecolemilitaire).
+linha(8, ecolemilitaire, latourmaubourg).
 
-linha(ecolemilitaire, lamottepicquetgrenelle).
-linha(lamottepicquetgrenelle, ecolemilitaire).
+linha(8, ecolemilitaire, lamottepicquetgrenelle).
+linha(8, lamottepicquetgrenelle, ecolemilitaire).
 
-linha(lamottepicquetgrenelle, commerce).
-linha(commerce, lamottepicquetgrenelle).
+linha(8, lamottepicquetgrenelle, commerce).
+linha(8, commerce, lamottepicquetgrenelle).
 
-linha(commerce, felixfaure).
-linha(felixfaure, commerce).
+linha(8, commerce, felixfaure).
+linha(8, felixfaure, commerce).
 
-linha(felixfaure, boucicaut).
-linha(boucicaut, felixfaure).
+linha(8, felixfaure, boucicaut).
+linha(8, boucicaut, felixfaure).
 
-linha(boucicaut, lourmel).
-linha(lourmel, boucicaut).
+linha(8, boucicaut, lourmel).
+linha(8, lourmel, boucicaut).
 
-linha(lourmel, balard).
-linha(balard, lourmel).
+linha(8, lourmel, balard).
+linha(8, balard, lourmel).

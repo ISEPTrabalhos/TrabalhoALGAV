@@ -1,16 +1,16 @@
 /* linha roxa(E) */
 
-linha(haussmannsaintlazare, garedunord).
-linha(garedunord, haussmannsaintlazare).
+linha(E, haussmannsaintlazare, garedunord).
+linha(E, garedunord, haussmannsaintlazare).
 
-linha(garedunord, pantin).
-linha(pantin, garedunord).
+linha(E, garedunord, pantin).
+linha(E, pantin, garedunord).
 
-linha(pantin, noisylesec).
-linha(noisylesec, pantin).
+linha(E, pantin, noisylesec).
+linha(E, noisylesec, pantin).
 
-linha(noisylesec, chellesgournay).
-linha(chellesgournay, noisylesec).
+linha(E, noisylesec, chellesgournay).
+linha(E, chellesgournay, noisylesec).
 
-linha(noisylesec, tournan).
-linha(tournan, noisylesec).
+linha(E, noisylesec, tournan).
+linha(E, tournan, noisylesec).

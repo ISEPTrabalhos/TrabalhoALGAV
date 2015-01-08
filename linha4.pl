@@ -1,82 +1,82 @@
 /* linha roxa(4) */
 
-linha(portedeclignancourt, simplon).
-linha(simplon, portedeclignancourt).
+linha(4, portedeclignancourt, simplon).
+linha(4, simplon, portedeclignancourt).
 
-linha(simplon, marcadetpoissonniers).
-linha(marcadetpoissonniers, simplon).
+linha(4, simplon, marcadetpoissonniers).
+linha(4, marcadetpoissonniers, simplon).
 
-linha(marcadetpoissonniers, chateaurouge).
-linha(chateaurouge, marcadetpoissonniers).
+linha(4, marcadetpoissonniers, chateaurouge).
+linha(4, chateaurouge, marcadetpoissonniers).
 
-linha(chateaurouge, barbesrochechouart).
-linha(barbesrochechouart, chateaurouge).
+linha(4, chateaurouge, barbesrochechouart).
+linha(4, barbesrochechouart, chateaurouge).
 
-linha(barbesrochechouart, garedunord).
-linha(garedunord, barbesrochechouart).
+linha(4, barbesrochechouart, garedunord).
+linha(4, garedunord, barbesrochechouart).
 
-linha(garedunord, garedelest).
-linha(garedelest, garedunord).
+linha(4, garedunord, garedelest).
+linha(4, garedelest, garedunord).
 
-linha(garedelest, chateaudeau).
-linha(chateaudeau, garedelest).
+linha(4, garedelest, chateaudeau).
+linha(4, chateaudeau, garedelest).
 
-linha(chateaudeau, strasbourgsaintdenis).
-linha(strasbourgsaintdenis, chateaudeau).
+linha(4, chateaudeau, strasbourgsaintdenis).
+linha(4, strasbourgsaintdenis, chateaudeau).
 
-linha(strasbourgsaintdenis, reaumursebastopol).
-linha(reaumursebastopol, strasbourgsaintdenis).
+linha(4, strasbourgsaintdenis, reaumursebastopol).
+linha(4, reaumursebastopol, strasbourgsaintdenis).
 
-linha(reaumursebastopol, etiennemarcel).
-linha(etiennemarcel, reaumursebastopol).
+linha(4, reaumursebastopol, etiennemarcel).
+linha(4, etiennemarcel, reaumursebastopol).
 
-linha(etiennemarcel, leshalles).
-linha(leshalles, etiennemarcel).
+linha(4, etiennemarcel, leshalles).
+linha(4, leshalles, etiennemarcel).
 
-linha(leshalles, chatelet).
-linha(chatelet, leshalles).
+linha(4, leshalles, chatelet).
+linha(4, chatelet, leshalles).
 
-linha(chatelet, cite).
-linha(cite, chatelet).
+linha(4, chatelet, cite).
+linha(4, cite, chatelet).
 
-linha(cite, stmichel).
-linha(stmichel, cite).
+linha(4, cite, stmichel).
+linha(4, stmichel, cite).
 
-linha(stmichel, odeon).
-linha(odeon, stmichel).
+linha(4, stmichel, odeon).
+linha(4, odeon, stmichel).
 
-linha(odeon, saintgermaindespres).
-linha(saintgermaindespres, odeon).
+linha(4, odeon, saintgermaindespres).
+linha(4, saintgermaindespres, odeon).
 
-linha(saintgermaindespres, saintsulpice).
-linha(saintsulpice, saintgermaindespres).
+linha(4, saintgermaindespres, saintsulpice).
+linha(4, saintsulpice, saintgermaindespres).
 
-linha(saintsulpice, stplacide).
-linha(stplacide, saintsulpice).
+linha(4, saintsulpice, stplacide).
+linha(4, stplacide, saintsulpice).
 
-linha(stplacide, montparnassebienvenue).
-linha(montparnassebienvenue, stplacide).
+linha(4, stplacide, montparnassebienvenue).
+linha(4, montparnassebienvenue, stplacide).
 
-linha(montparnassebienvenue, vavin).
-linha(vavin, montparnassebienvenue).
+linha(4, montparnassebienvenue, vavin).
+linha(4, vavin, montparnassebienvenue).
 
-linha(vavin, raspail).
-linha(raspail, vavin).
+linha(4, vavin, raspail).
+linha(4, raspail, vavin).
 
-linha(raspail, denfertrochereau).
-linha(denfertrochereau, raspail).
+linha(4, raspail, denfertrochereau).
+linha(4, denfertrochereau, raspail).
 
-linha(denfertrochereau, moutonduvernet).
-linha(moutonduvernet, denfertrochereau).
+linha(4, denfertrochereau, moutonduvernet).
+linha(4, moutonduvernet, denfertrochereau).
 
-linha(moutonduvernet, alesia).
-linha(alesia, moutonduvernet).
+linha(4, moutonduvernet, alesia).
+linha(4, alesia, moutonduvernet).
 
-linha(alesia, portedorleans).
-linha(portedorleans, alesia).
+linha(4, alesia, portedorleans).
+linha(4, portedorleans, alesia).
 
-linha(portedorleans, mairiedemontrouge).
-linha(mairiedemontrouge, portedorleans).
+linha(4, portedorleans, mairiedemontrouge).
+linha(4, mairiedemontrouge, portedorleans).
 
 
 

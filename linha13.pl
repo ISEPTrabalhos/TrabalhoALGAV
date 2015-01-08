@@ -1,88 +1,88 @@
 /* linha azul claro(13) */
 
-linha(chatillonmontrouge, malakoffrueetiennedolet).
-linha(malakoffrueetiennedolet, chatillonmontrouge).
+linha(13, chatillonmontrouge, malakoffrueetiennedolet).
+linha(13, malakoffrueetiennedolet, chatillonmontrouge).
 
-linha(malakoffrueetiennedolet, malakoffplateaudevanves).
-linha(malakoffplateaudevanves, malakoffrueetiennedolet).
+linha(13, malakoffrueetiennedolet, malakoffplateaudevanves).
+linha(13, malakoffplateaudevanves, malakoffrueetiennedolet).
 
-linha(portedevanves, malakoffplateaudevanves).
-linha(malakoffplateaudevanves, portedevanves).
+linha(13, portedevanves, malakoffplateaudevanves).
+linha(13, malakoffplateaudevanves, portedevanves).
 
-linha(portedevanves, plaisance).
-linha(plaisance, portedevanves).
+linha(13, portedevanves, plaisance).
+linha(13, plaisance, portedevanves).
 
-linha(plaisance, pernetty).
-linha(pernetty, plaisance).
+linha(13, plaisance, pernetty).
+linha(13, pernetty, plaisance).
 
-linha(pernetty, gaite).
-linha(gaite, pernetty).
+linha(13, pernetty, gaite).
+linha(13, gaite, pernetty).
 
-linha(gaite, montparnassebienvenue).
-linha(montparnassebienvenue, gaite).
+linha(13, gaite, montparnassebienvenue).
+linha(13, montparnassebienvenue, gaite).
 
-linha(montparnassebienvenue, duroc).
-linha(duroc, montparnassebienvenue).
+linha(13, montparnassebienvenue, duroc).
+linha(13, duroc, montparnassebienvenue).
 
-linha(duroc, saintfrancoisxavier).
-linha(saintfrancoisxavier, duroc).
+linha(13, duroc, saintfrancoisxavier).
+linha(13, saintfrancoisxavier, duroc).
 
-linha(saintfrancoisxavier, varenne).
-linha(varenne, saintfrancoisxavier).
+linha(13, saintfrancoisxavier, varenne).
+linha(13, varenne, saintfrancoisxavier).
 
-linha(varenne, invalides).
-linha(invalides, varenne).
+linha(13, varenne, invalides).
+linha(13, invalides, varenne).
 
-linha(invalides, champselyseesclemenceau).
-linha(champselyseesclemenceau, invalides).
+linha(13, invalides, champselyseesclemenceau).
+linha(13, champselyseesclemenceau, invalides).
 
-linha(champselyseesclemenceau, miromesnil).
-linha(miromesnil, champselyseesclemenceau).
+linha(13, champselyseesclemenceau, miromesnil).
+linha(13, miromesnil, champselyseesclemenceau).
 
-linha(miromesnil, liege).
-linha(liege, miromesnil).
+linha(13, miromesnil, liege).
+linha(13, liege, miromesnil).
 
-linha(liege, placedeclichy).
-linha(placedeclichy, liege).
+linha(13, liege, placedeclichy).
+linha(13, placedeclichy, liege).
 
-linha(placedeclichy, lafourche).
-linha(lafourche, placedeclichy).
+linha(13, placedeclichy, lafourche).
+linha(13, lafourche, placedeclichy).
 
-linha(lafourche, guymoquet).
-linha(guymoquet, lafourche).
+linha(13, lafourche, guymoquet).
+linha(13, guymoquet, lafourche).
 
-linha(guymoquet, portedesaintouen).
-linha(portedesaintouen, guymoquet).
+linha(13, guymoquet, portedesaintouen).
+linha(13, portedesaintouen, guymoquet).
 
-linha(portedesaintouen, garibaldi).
-linha(garibaldi, portedesaintouen).
+linha(13, portedesaintouen, garibaldi).
+linha(13, garibaldi, portedesaintouen).
 
-linha(garibaldi, mairiedesaintouen).
-linha(mairiedesaintouen, garibaldi).
+linha(13, garibaldi, mairiedesaintouen).
+linha(13, mairiedesaintouen, garibaldi).
 
-linha(mairiedesaintouen, carrefourpleyel).
-linha(carrefourpleyel, mairiedesaintouen).
+linha(13, mairiedesaintouen, carrefourpleyel).
+linha(13, carrefourpleyel, mairiedesaintouen).
 
-linha(carrefourpleyel, saintdenisportedeparis).
-linha(saintdenisportedeparis, carrefourpleyel).
+linha(13, carrefourpleyel, saintdenisportedeparis).
+linha(13, saintdenisportedeparis, carrefourpleyel).
 
-linha(saintdenisportedeparis, basiliquedestdenis).
-linha(basiliquedestdenis, saintdenisportedeparis).
+linha(13, saintdenisportedeparis, basiliquedestdenis).
+linha(13, basiliquedestdenis, saintdenisportedeparis).
 
-linha(basiliquedestdenis, saindenisuniversite).
-linha(saindenisuniversite, basiliquedestdenis).
+linha(13, basiliquedestdenis, saindenisuniversite).
+linha(13, saindenisuniversite, basiliquedestdenis).
 
-linha(lafourche, brochant).
-linha(brochant, portedeclichy).
+linha(13, lafourche, brochant).
+linha(13, brochant, portedeclichy).
 
-linha(portedeclichy, mairiedeclichy).
-linha(mairiedeclichy, portedeclichy).
+linha(13, portedeclichy, mairiedeclichy).
+linha(13, mairiedeclichy, portedeclichy).
 
-linha(mairiedeclichy, gabrielperi).
-linha(gabrielperi, mairiedeclichy).
+linha(13, mairiedeclichy, gabrielperi).
+linha(13, gabrielperi, mairiedeclichy).
 
-linha(gabrielperi, lesagnettes).
-linha(lesagnettes, gabrielperi).
+linha(13, gabrielperi, lesagnettes).
+linha(13, lesagnettes, gabrielperi).
 
-linha(lesagnettes, lescourtilles).
-linha(lescourtilles, lesagnettes).
+linha(13, lesagnettes, lescourtilles).
+linha(13, lescourtilles, lesagnettes).

@@ -1,23 +1,23 @@
 /* linha verde(D) */
-linha(crell, stadedefrancesaintdenis).
-linha(stadedefrancesaintdenis, crell).
+linha(D, crell, stadedefrancesaintdenis).
+linha(D, stadedefrancesaintdenis, crell).
 
-linha(stadedefrancesaintdenis, garedunord).
-linha(garedunord, stadedefrancesaintdenis).
+linha(D, stadedefrancesaintdenis, garedunord).
+linha(D, garedunord, stadedefrancesaintdenis).
 
-linha(garedunord, leshalles).
-linha(leshalles, garedunord).
+linha(D, garedunord, leshalles).
+linha(D, leshalles, garedunord).
 
-linha(leshalles, garedelyon).
-linha(garedelyon, leshalles).
+linha(D, leshalles, garedelyon).
+linha(D, garedelyon, leshalles).
 
-linha(garedelyon, maisonsafortalfortville).
-linha(maisonsafortalfortville, garedelyon).
+linha(D, garedelyon, maisonsafortalfortville).
+linha(D, maisonsafortalfortville, garedelyon).
 
-linha(maisonsafortalfortville, levertdemaisons).
-linha(levertdemaisons, maisonsafortalfortville).
+linha(D, maisonsafortalfortville, levertdemaisons).
+linha(D, levertdemaisons, maisonsafortalfortville).
 
-linha(levertdemaisons, melun).
-linha(levertdemaisons, malesherbes).
-linha(melun, levertdemaisons).
-linha(malesherbes, levertdemaisons).
+linha(D, levertdemaisons, melun).
+linha(D, levertdemaisons, malesherbes).
+linha(D, melun, levertdemaisons).
+linha(D, malesherbes, levertdemaisons).

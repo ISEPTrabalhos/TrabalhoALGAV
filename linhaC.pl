@@ -1,94 +1,94 @@
 /* linha amarela(C) */
 
-linha(pontoise, lesgresillons).
-linha(lesgresillons, pontoise).
+linha(C, pontoise, lesgresillons).
+linha(C, lesgresillons, pontoise).
 
-linha(lesgresillons, saintouen).
-linha(saintouen, lesgresillons).
+linha(C, lesgresillons, saintouen).
+linha(C, saintouen, lesgresillons).
 
-linha(saintouen, portedeclichy).
-linha(portedeclichy, saintouen).
+linha(C, saintouen, portedeclichy).
+linha(C, portedeclichy, saintouen).
 
-linha(portedeclichy, pereirelevallois).
-linha(pereirelevallois, portedeclichy).
+linha(C, portedeclichy, pereirelevallois).
+linha(C, pereirelevallois, portedeclichy).
 
-linha(pereirelevallois, neuillyportemaillot).
-linha(neuillyportemaillot, pereirelevallois).
+linha(C, pereirelevallois, neuillyportemaillot).
+linha(C, neuillyportemaillot, pereirelevallois).
 
-linha(pereirelevallois, avenuefoch).
-linha(avenuefoch, pereirelevallois).
+linha(C, pereirelevallois, avenuefoch).
+linha(C, avenuefoch, pereirelevallois).
 
-linha(avenuefoch, avenuehenrimartin).
-linha(avenuehenrimartin, avenuefoch).
+linha(C, avenuefoch, avenuehenrimartin).
+linha(C, avenuehenrimartin, avenuefoch).
 
-linha(avenuehenrimartin, boulainvilliers).
-linha(boulainvilliers, avenuehenrimartin).
+linha(C, avenuehenrimartin, boulainvilliers).
+linha(C, boulainvilliers, avenuehenrimartin).
 
-linha(boulainvilliers, avenuedupdtkennedy).
-linha(avenuehenrimartin, boulainvilliers).
+linha(C, boulainvilliers, avenuedupdtkennedy).
+linha(C, avenuehenrimartin, boulainvilliers).
 
-linha(avenuedupdtkennedy, champdemarstoureiffel).
-linha(champdemarstoureiffel, avenuedupdtkennedy).
+linha(C, avenuedupdtkennedy, champdemarstoureiffel).
+linha(C, champdemarstoureiffel, avenuedupdtkennedy).
 
-linha(champdemarstoureiffel, latourmaubourg).
-linha(latourmaubourg, champdemarstoureiffel).
+linha(C, champdemarstoureiffel, latourmaubourg).
+linha(C, latourmaubourg, champdemarstoureiffel).
 
-linha(latourmaubourg, invalides).
-linha(invalides, latourmaubourg).
+linha(C, latourmaubourg, invalides).
+linha(C, invalides, latourmaubourg).
 
-linha(invalides, museedorsay).
-linha(museedorsay, invalides).
+linha(C, invalides, museedorsay).
+linha(C, museedorsay, invalides).
 
-linha(museedorsay, stmichelnotredame).
-linha(stmichelnotredame, museedorsay).
+linha(C, museedorsay, stmichelnotredame).
+linha(C, stmichelnotredame, museedorsay).
 
-linha(stmichelnotredame, garedausterlitz).
-linha(garedausterlitz, stmichelnotredame).
+linha(C, stmichelnotredame, garedausterlitz).
+linha(C, garedausterlitz, stmichelnotredame).
 
-linha(garedausterlitz, bibliothequefrmitterrand).
-linha(bibliothequefrmitterrand, garedausterlitz).
+linha(C, garedausterlitz, bibliothequefrmitterrand).
+linha(C, bibliothequefrmitterrand, garedausterlitz).
 
-linha(bibliothequefrmitterrand, ivrysurseine).
-linha(ivrysurseine, bibliothequefrmitterrand).
+linha(C, bibliothequefrmitterrand, ivrysurseine).
+linha(C, ivrysurseine, bibliothequefrmitterrand).
 
-linha(ivrysurseine, vitrysurseine).
-linha(vitrysurseine, vitrysurseine).
+linha(C, ivrysurseine, vitrysurseine).
+linha(C, vitrysurseine, vitrysurseine).
 
-linha(vitrysurseine, lesardoines).
-linha(lesardoines, vitrysurseine).
+linha(C, vitrysurseine, lesardoines).
+linha(C, lesardoines, vitrysurseine).
 
-linha(lesardoines, choisyleroi).
-linha(choisyleroi, lesardoines).
+linha(C, lesardoines, choisyleroi).
+linha(C, choisyleroi, lesardoines).
 
-linha(choisyleroi, massypalalseauversalleschantlers).
-linha(massypalalseauversalleschantlers, choisyleroi).
+linha(C, choisyleroi, massypalalseauversalleschantlers).
+linha(C, massypalalseauversalleschantlers, choisyleroi).
 
-linha(choisyleroi, dourdansaintmartindetampes).
-linha(dourdansaintmartindetampes, choisyleroi).
+linha(C, choisyleroi, dourdansaintmartindetampes).
+linha(C, dourdansaintmartindetampes, choisyleroi).
 
-linha(avenuedupdtkennedy, javel).
-linha(javel, avenuedupdtkennedy).
+linha(C, avenuedupdtkennedy, javel).
+linha(C, javel, avenuedupdtkennedy).
 
-linha(javel, pontdugariglano).
-linha(pontdugariglano, javel).
+linha(C, javel, pontdugariglano).
+linha(C, pontdugariglano, javel).
 
-linha(pontdugariglano, issyvaldeseine).
-linha(issyvaldeseine, pontdugariglano).
+linha(C, pontdugariglano, issyvaldeseine).
+linha(C, issyvaldeseine, pontdugariglano).
 
-linha(issyvaldeseine, issy).
-linha(issy, issyvaldeseine).
+linha(C, issyvaldeseine, issy).
+linha(C, issy, issyvaldeseine).
 
-linha(issy, meudonvalfleury).
-linha(meudonvalfleury, issy).
+linha(C, issy, meudonvalfleury).
+linha(C, meudonvalfleury, issy).
 
-linha(meudonvalfleury, chavillevelizy).
-linha(chavillevelizy, meudonvalfleury).
+linha(C, meudonvalfleury, chavillevelizy).
+linha(C, chavillevelizy, meudonvalfleury).
 
-linha(chavillevelizy, viroflayrivegauche).
-linha(viroflayrivegauche, chavillevelizy).
+linha(C, chavillevelizy, viroflayrivegauche).
+linha(C, viroflayrivegauche, chavillevelizy).
 
-linha(viroflayrivegauche, versalleschateau).
-linha(versalleschateau, viroflayrivegauche).
+linha(C, viroflayrivegauche, versalleschateau).
+linha(C, versalleschateau, viroflayrivegauche).
 
-linha(viroflayrivegauche, saintquentinenyvellnes).
-linha(saintquentinenyvellnes, viroflayrivegauche).
+linha(C, viroflayrivegauche, saintquentinenyvellnes).
+linha(C, saintquentinenyvellnes, viroflayrivegauche).
