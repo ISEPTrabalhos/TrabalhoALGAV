@@ -1,7 +1,15 @@
 /* linha amarela (1) */
 
+<<<<<<< HEAD
+linha(1, ["Château de Vincennes", "Bérault", "Saint-Mandlé-Tourelle", "Porte de Vincennes", "Nation", "Reuilly-Diderot", "Gare de Lyon", "Bastille", "Saint-Paul", "Hotel de Ville", "Châtelet", "Louvre-Rivoli", "Palais Royal-Museé du Louvre", "Tuileries", "Concorde", "Champs-Élysées-Clemenceau", "Franklin D.Roosevelt", "George V", "Charles de Gaulle - Étoile", "Argentine", "Porte Maillot", "Les Sablons", "Pont de Neuilly", "Esplanade de La Défense", "La Défense"]).
+
+/*
+linha(ladefense, esplanadedeladefense).
+linha(esplanadedeladefense, ladefense).
+=======
 linha(1, ladefense, esplanadedeladefense).
 linha(1, esplanadedeladefense, ladefense).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
 
 linha(1, esplanadedeladefense, pontdeneuilly).
 linha(1, pontdeneuilly, esplanadedeladefense).
@@ -69,5 +77,11 @@ linha(1, stmande, portedevincennes).
 linha(1, stmande, berault).
 linha(1, berault, stmande).
 
+<<<<<<< HEAD
+linha(berault, chateaudevincennes).
+linha(chateaudevincennes, berault).
+*/
+=======
 linha(1, berault, chateaudevincennes).
 linha(1, chateaudevincennes, berault).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

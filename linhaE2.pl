@@ -1,0 +1,1 @@
+linha(E2,["Haussmann Saint-Lazare","Gare du Nord","Pantin","Noisy-le-Sec","Chelles Gournay"]).

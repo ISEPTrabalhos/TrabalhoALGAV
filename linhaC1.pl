@@ -1,7 +1,15 @@
 /* linha amarela(C) */
 
+<<<<<<< HEAD:linhaC1.pl
+linha(C1,["Massy-Palalseau Versailles-Chantlers","Choisy-le-Roi","Les Ardoines","Vitry sur-Seine","Ivry sur-Seine","Bibliothèque Fr. Mitterrand","Gare d'Austerlitz","St-Michel Notre-Dame","Musée d'Orsay","Invalides","Pont de l'Alma","Champ de Mars Tour Eiffel","Javel","Pont du Gariliano","Issy Val de Seine","Issy","Meudon-Val-Fleury","Chaville-Véllizy","Viroflay Rive Gauche","Versailles-Château"]).
+
+/*
+linha(pontoise, lesgresillons).
+linha(lesgresillons, pontoise).
+=======
 linha(C, pontoise, lesgresillons).
 linha(C, lesgresillons, pontoise).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320:linhaC.pl
 
 linha(C, lesgresillons, saintouen).
 linha(C, saintouen, lesgresillons).
@@ -90,5 +98,11 @@ linha(C, viroflayrivegauche, chavillevelizy).
 linha(C, viroflayrivegauche, versalleschateau).
 linha(C, versalleschateau, viroflayrivegauche).
 
+<<<<<<< HEAD:linhaC1.pl
+linha(viroflayrivegauche, saintquentinenyvellnes).
+linha(saintquentinenyvellnes, viroflayrivegauche).
+*/
+=======
 linha(C, viroflayrivegauche, saintquentinenyvellnes).
 linha(C, saintquentinenyvellnes, viroflayrivegauche).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320:linhaC.pl

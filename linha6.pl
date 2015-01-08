@@ -1,7 +1,15 @@
 /* linha verde claro(6) */
 
+<<<<<<< HEAD
+linha(6, ["Charles de Gaulle Étoile", "Kléber", "Boissière", "Trocadéro", "Passy", "Bir-Hakeim", "Dupleix", "La Motte-Picquet Grenelle", "Cambronne", "Sèvres-Lecourbe", "Pasteur", "Montparnasse Bienvenue", "Edgar Quinet", "Raspail", "Denfert-Rochereau", "Saint-Jacques", "Glacière", "Corvisart", "Place d'Italie", "Nationale", "Chevaleret", "Quai de la Gare", "Bercy", "Dugommier", "Daumesnil", "Bel-Air", "Picpus", "Nation"]).
+
+/*
+linha(charlesdegaulleetoille, kleber).
+linha(kleber, charlesdegaulleetoille).
+=======
 linha(6, charlesdegaulleetoille, kleber).
 linha(6, kleber, charlesdegaulleetoille).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
 
 linha(6, kleber, boissiere).
 linha(6, boissiere, kleber).
@@ -78,6 +86,11 @@ linha(6, belair, daumesnil).
 linha(6, belair, picpus).
 linha(6, picpus, belair).
 
+<<<<<<< HEAD
+linha(picpus, natlon).
+linha(natlon, picpus).
+*/
+=======
 linha(6, picpus, natlon).
 linha(6, natlon, picpus).
 
@@ -93,3 +106,4 @@ linha(6, natlon, picpus).
 
 
 
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

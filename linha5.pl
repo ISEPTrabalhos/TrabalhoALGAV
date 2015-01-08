@@ -1,7 +1,15 @@
 /* linha laranja(5) */
 
+<<<<<<< HEAD
+linha(5, ["Bobigny Pablo Picasso", "Bobigny-Pantin", "Hoche", "Porte de Pantin", "Ourcq", "Laumière", "Jaurès", "Stalingrad", "Gare du Nord", "Gare de l'Est", "Jacques Bonsergent", "République", "Oberkampf", "Richard-Lenoir", "Bréguet-Sabin", "Bastille", "Quai de la Rapée", "Gare d'Austerlitz", "Saint-Marcel", "Campo-Formio", "Place d'Italie"]).
+
+/*
+linha(bobignypablopicasso, bobignypantinraymondqueneau).
+linha(bobignypantinraymondqueneau, bobignypablopicasso).
+=======
 linha(5, bobignypablopicasso, bobignypantinraymondqueneau).
 linha(5, bobignypantinraymondqueneau, bobignypablopicasso).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
 
 linha(5, bobignypantinraymondqueneau, eglisedepantin).
 linha(5, eglisedepantin, bobignypantinraymondqueneau).
@@ -57,5 +65,11 @@ linha(5, saintmarcel, garedausterlitz).
 linha(5, saintmarcel, campoformio).
 linha(5, campoformio, saintmarcel).
 
+<<<<<<< HEAD
+linha(campoformio, placeditale).
+linha(placeditale, campoformio).
+*/
+=======
 linha(5, campoformio, placeditale).
 linha(5, placeditale, campoformio).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

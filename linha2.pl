@@ -1,7 +1,15 @@
 /* linha azul(2) */
 
+<<<<<<< HEAD
+linha(2, ["Porte Dauphine", "Victor Hugo", "Charles de Gaulle Étoile", "Ternes", "Courcelles", "Monceau", "Villiers", "Rome", "Place de Clichy", "Blanche", "Pigalle", "Anvers", "Barbès-Rochechouart", "La Chapelle", "Stalingrad", "Jaurès", "Colonel Fabien", "Belleville", "Couronnes", "Ménilmontant", "Père Lachaise", "Philippe Auguste", "Alexandre Dumas", "Avron", "Nation"]).
+
+/*
+linha(portedauphine, victorhugo).
+linha(victorhugo, portedauphine).
+=======
 linha(2, portedauphine, victorhugo).
 linha(2, victorhugo, portedauphine).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
 
 linha(2, victorhugo, charlesdegaulleetolle).
 linha(2, charlesdegaulleetolle, victorhugo).
@@ -69,5 +77,11 @@ linha(2, alexandredumas, philippeauguste).
 linha(2, alexandredumas, avron).
 linha(2, avron, alexandredumas).
 
+<<<<<<< HEAD
+linha(avron, natlon).
+linha(natlon, avron).
+*/
+=======
 linha(2, avron, natlon).
 linha(2, natlon, avron).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

@@ -1,7 +1,15 @@
 /* linha rosa claro (7) */
 
+<<<<<<< HEAD
+linha(7,["La Courneuve 8 Mai 1945", "Fort d'Aubervilliers", "Aubervilliers-Pantin Quatre Chemins", "Porte de la Villette", "Corentin Cariou", "Crimée", "Riquet", "Stalingrad", "Louis Blanc", "Château-Landon", "Gare de l'Est", "Poissonnière", "Cadet", "Le Peletier", "Chaussée d'Antin-La Fayette", "Opéra", "Pyramides", "Palais Royal", "Musée du Louvre", "Pont Neuf", "Châtelet", "Pont Marie", "Sully-Morland", "Jussieu", "Place Monge", "Censier-Daubenton", "Les Gobelins", "Place d'Italie", "Tolbiac", "Maison Blanche", "Porte d'Italie", "Porte de Choisy", "Porte d'Ivry", "Pierre Curie", "Mairie d'Ivry"]).
+
+/*
+linha(lacourneuve, fortdaubervilliers).
+linha(fortdaubervilliers, lacourneuve).
+=======
 linha(7, lacourneuve, fortdaubervilliers).
 linha(7, fortdaubervilliers, lacourneuve).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
 
 linha(7, fortdaubervilliers, aubervillierspantinquatrechemins).
 linha(7, aubervillierspantinquatrechemins, fortdaubervilliers).
@@ -105,5 +113,11 @@ linha(7, portedivry, portedechoisy).
 linha(7, portedivry, pierreetmariecurie).
 linha(7, pierreetmariecurie, portedivry).
 
+<<<<<<< HEAD
+linha(pierreetmariecurie, mairiedivry).
+linha(mairiedivry, pierreetmariecurie).
+*/
+=======
 linha(7, pierreetmariecurie, mairiedivry).
 linha(7, mairiedivry, pierreetmariecurie).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320

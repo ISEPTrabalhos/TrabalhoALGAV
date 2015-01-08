@@ -1,7 +1,15 @@
 /* linha laranja escuro(10) */
 
+<<<<<<< HEAD
+linha(10, ["Boulogne Pont de Saint-Cloud", "Boulogne Jean Jaurès", "Michel-Ange Molitor", "Chardon Lagache", "MiraBeau", "Javel-André Citroen", "Charles Michels", "Avenue Émile Zola", "La Motte-Picquet Grenelle", "Ségur", "Duroc", "Vaneau", "Sèvres-Babylone", "Mabillon", "Odéon", "Cluny-La Sorbonne", "Maubert-Mutualité", "Cardinal Lemoine", "Jussieu", "Gare d'Austerlitz"]).
+
+/*
+linha(boulognepontdestcloud, boulognejeanjaures).
+linha(boulognejeanjaures, boulognepontdestcloud).
+=======
 linha(10,  boulognepontdestcloud, boulognejeanjaures).
 linha(10,  boulognejeanjaures, boulognepontdestcloud).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
 
 linha(10,  boulognejeanjaures, michelangemolitor).
 
@@ -58,5 +66,11 @@ linha(10,  cardinallemoine, maubertmutualite).
 linha(10,  cardinallemoine, jussieu).
 linha(10,  jussieu, cardinallemoine).
 
+<<<<<<< HEAD
+linha(jussieu, garedausterlitz).
+linha(garedausterlitz, jussieu).
+*/
+=======
 linha(10,  jussieu, garedausterlitz).
 linha(10,  garedausterlitz, jussieu).
+>>>>>>> 058db7b1e2373c2057291bad992a2e649d4ed320
