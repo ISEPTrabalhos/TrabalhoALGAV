@@ -1,1 +1,1 @@
-linha(D2,['Melun','Le Vert de Maisons','Maisons-Alfort Alfortville','Gare d Austerlitz','Les Halles','Gare du Nord','Stade de France Saint-Denis','Saint-Denis','Crell']).
+linha('D2',['Melun','Le Vert de Maisons','Maisons-Alfort Alfortville','Gare d Austerlitz','Les Halles','Gare du Nord','Stade de France Saint-Denis','Saint-Denis','Crell']).

@@ -12,6 +12,8 @@
 :- include('linhaC2.pl').
 :- include('linhaC3.pl').
 :- include('linhaC4.pl').
+:- include('linhaC5.pl').
+:- include('linhaC6.pl').
 :- include('linhaD1.pl').
 :- include('linhaD2.pl').
 :- include('linhaE1.pl').
