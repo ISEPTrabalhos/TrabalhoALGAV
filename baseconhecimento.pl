@@ -35,3 +35,4 @@
 :- include('linha13.1.pl').
 :- include('linha13.2.pl').
 :- include('linha14.pl').
+:- include('pontosturisticos.pl').
