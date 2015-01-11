@@ -22,14 +22,18 @@ criar_cruzamento:-linha(A,L1),
 	    intersection(L1,L2,L),A\==B,
 	    L\==[],assertz(cruzamento(A,B,L)).
 
+:-dynamic liga/3.
+
 /* gerar ligacoes entre estacoes */
 criar_ligacoes_estacoes:-findall(_, (linha(Linha,Listagem), 
 					criar_ligacoes_estacoes(Linha, Listagem, Listagem)), _).
 criar_ligacoes_estacoes(_, _, [_|[]]).
 criar_ligacoes_estacoes(Linha, [Estacao|Resto], [Estacao, Seguinte|_]):-
 						criar_ligacoes_estacoes(Linha, Resto, Resto),
-						assertz(liga(Estacao, Seguinte, Linha, 3)),
-						assertz(liga(Seguinte, Estacao, Linha, 3)).
+						\+liga(Estacao, Seguinte, 3),
+						assertz(liga(Estacao, Seguinte, 3)),
+						\+liga(Seguinte, Estacao, 3),
+						assertz(liga(Seguinte, Estacao, 3)).
 						/* vai gerar regras do tipo liga com
 						estacao, proxima_estacao, linha_que_pertence, tempo_de_viagem */
 
@@ -55,7 +59,7 @@ percursos_seguintes(c(_/Dist,[Ult|T]),Dest,Percursos,Percurso,Total):-
 
 proximo_no(X,T,Y,Dist,Dest,F/Dist1):-
                 liga(X,Y,Z),
-                \+ member(Y,T),
+                \+member(Y,T),
                 Dist1 is Dist + Z,
                 estimativa(Y,Dest,H), F is H + Dist1.
 
