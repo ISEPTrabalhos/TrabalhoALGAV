@@ -22,6 +22,7 @@ criar_cruzamento:-linha(A,L1),
 	    intersection(L1,L2,L),A\==B,
 	    L\==[],assertz(cruzamento(A,B,L)).
 
+/* permitir criação dinâmica de ligações , regra 'liga' com 3 parâmetros */
 :-dynamic liga/3.
 
 /* gerar ligacoes entre estacoes */
@@ -80,4 +81,16 @@ menor(c(A1/B1,_), c(A2/B2,_)):- As1 is A1 + B1, As2 is A2 + B2, As2 < As1.
 
 estimativa(_,_,0). % para desprezar a heurística.
 
+/* simplesmente para existir uma regra com melhor nome */
 caminho_mais_rapido(Origem, Destino, Percurso, Tempo):-hbf(Origem, Destino, Percurso, Tempo).
+
+
+/* para caminho com menos trocas */
+/*
+sempre que se adicionar uma estacao à lista de percurso,
+ir buscar a linha correspondente ( a estacao pertence a uma dada lista de uma dada estacao )
+se houver troca de linha, significa que cruzou
+logo iterar um dado contador de cruzamentos
+
+assim, arranjando o menor par controlar este contador, teriamos um metodo a apresentar por ordem
+os caminhos com menor cruzamentos */
