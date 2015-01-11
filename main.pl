@@ -80,6 +80,4 @@ menor(c(A1/B1,_), c(A2/B2,_)):- As1 is A1 + B1, As2 is A2 + B2, As2 < As1.
 
 estimativa(_,_,0). % para desprezar a heurística.
 
-/*
-
-rapido(Partida, Destino, P, T):-findall(_,hbf(Partida,Destino,Percurso,Tempo),_), (Tempo < T, T is Tempo,P is Percurso*/
+caminho_mais_rapido(Origem, Destino, Percurso, Tempo):-hbf(Origem, Destino, Percurso, Tempo).
